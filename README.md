@@ -7,7 +7,7 @@ owner, taxpayer, and mailing-address fields.
 The geometry is a 15-foot topology-preserving simplification for browser
 display. All 1,479 project attributes are unchanged from the audited output.
 
-[Open directly in geojson.io](https://geojson.io/#id=github:BadLee2018/dallas-county-residential-pipeline-map/blob/main/dallas_residential_pipeline_display.geojson)
+[Open directly in geojson.io](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_residential_pipeline_display.geojson)
 
 Scope: high-confidence spatial subset only; not a claim of complete countywide
 coverage. `active_residential` is based on recent official structure evidence,
