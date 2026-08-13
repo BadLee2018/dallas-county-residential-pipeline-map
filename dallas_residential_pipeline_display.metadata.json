@@ -1,0 +1,7 @@
+{
+  "feature_count": 1479,
+  "crs": "EPSG:4326",
+  "simplification_tolerance_feet": 15.0,
+  "attribute_change": "none",
+  "geometry_note": "display-only topology-preserving simplification"
+}
