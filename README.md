@@ -10,8 +10,7 @@ output; the presentation files add only display styles and rank markers.
 
 Recommended views:
 
-- [Interview presentation map — 401 Active Residential projects, with Top 5
-  highlighted](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_active_residential_presentation.geojson)
+- [presentation_map](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_active_residential_presentation.geojson) — 401 Active Residential projects, with Top 5 highlighted.
 - [Top 5 focus map — five boundaries plus ranked centroid markers](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_top5_residential_projects.geojson)
 - [Full audit map — all 1,479 high-confidence projects](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_residential_pipeline_display.geojson)
 
