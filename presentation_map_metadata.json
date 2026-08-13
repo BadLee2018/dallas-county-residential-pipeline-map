@@ -1,0 +1,12 @@
+{
+  "source": "dallas_residential_pipeline_display.geojson",
+  "data_changes": "none; display filtering and SimpleStyle properties only",
+  "active_project_polygons": 401,
+  "top5_highlighted_polygons": 5,
+  "top5_rank_markers": 5,
+  "presentation_feature_count": 406,
+  "top5_feature_count": 10,
+  "crs": "EPSG:4326",
+  "owner_fields_included": false,
+  "scope": "high_confidence_active_residential_subset_only"
+}
