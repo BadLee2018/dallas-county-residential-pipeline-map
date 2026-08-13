@@ -11,8 +11,8 @@ output; the presentation files add only display styles and rank markers.
 Recommended views:
 
 - [presentation_map](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_active_residential_presentation.geojson) - 401 Active Residential projects, with Top 5 highlighted.
-- [Top 5 focus map - five boundaries plus ranked centroid markers](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_top5_residential_projects.geojson)
-- [Full audit map - all 1,477 high-confidence projects](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_residential_pipeline_display.geojson)
+- [top5_map](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_top5_residential_projects.geojson) - five boundaries plus ranked centroid markers.
+- [full_audit_map](https://geojson.io/#data=data:text/x-url,https%3A%2F%2Fraw.githubusercontent.com%2FBadLee2018%2Fdallas-county-residential-pipeline-map%2Fmain%2Fdallas_residential_pipeline_display.geojson) - all 1,477 high-confidence projects.
 
 Scope: high-confidence spatial subset only; not a claim of complete countywide
 coverage. `active_residential` is based on recent official structure evidence,
